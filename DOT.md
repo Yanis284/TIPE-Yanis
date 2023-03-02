@@ -25,9 +25,9 @@ Le DOT peut être aussi l'occasion d'indiquer les éventuelles difficultés renc
 
 Notez **chaque semaine** ce que vous faites et la date correspondante.
 
-- Jeudi 2 février 2023 : première séance de TIPE. Présentation des attendus. J'ai créé mon dépot (celui là) !
-- Jeudi 9 février 2023 : recherche d'idées: athlétisme ?
--
+- Jeudi 02 février 2023 : Première séance de TIPE. Présentation des attendus. J'ai créé mon dépot (celui là) !
+- Jeudi 09 février 2023 : Recherche d'idées: athlétisme ?
+- Jeudi 02 mars 2023    : Recherches sur le saut à la perche.
 -
 -
 -
