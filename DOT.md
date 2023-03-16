@@ -29,7 +29,7 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
 - Jeudi 09 février 2023 : Recherche d'idées: athlétisme ?
 - Jeudi 02 mars 2023    : Recherches sur le saut à la perche, étude énergétique, flexibilité.
 - Jeudi 09 mars 2023    : sujet 1 : saut à la perche (modélisation, étude flexibilité, ...)
-- Jeudi 16 mars 2023    : recherche du sujet 2 (de secours) sur le jeu vidéo.
+- Jeudi 16 mars 2023    : lecture de la thèse https://www.researchgate.net/profile/Philippe-Vaslin/publication/233866850_Les_facteurs_de_la_performance_en_saut_a_la_perche_dans_la_litterature_scientifique/links/5497f1310cf2ec13375d6b09/Les-facteurs-de-la-performance-en-saut-a-la-perche-dans-la-litterature-scientifique.pdf
 -
 -
 -
