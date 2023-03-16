@@ -28,8 +28,8 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
 - Jeudi 02 février 2023 : Première séance de TIPE. Présentation des attendus. J'ai créé mon dépot (celui là) !
 - Jeudi 09 février 2023 : Recherche d'idées: athlétisme ?
 - Jeudi 02 mars 2023    : Recherches sur le saut à la perche, étude énergétique, flexibilité.
--
--
+- Jeudi 09 mars 2023    : sujet 1 : saut à la perche (modélisation, étude flexibilité, ...)
+- Jeudi 16 mars 2023    : recherche du sujet 2 (de secours) sur le jeu vidéo.
 -
 -
 -
