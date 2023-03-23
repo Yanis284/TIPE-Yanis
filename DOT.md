@@ -28,7 +28,7 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
 - Jeudi 02 février 2023 : Première séance de TIPE. Présentation des attendus. J'ai créé mon dépot (celui là) !
 - Jeudi 09 février 2023 : Recherche d'idées: athlétisme ?
 - Jeudi 02 mars 2023    : Recherches sur le saut à la perche, étude énergétique, flexibilité.
-- Jeudi 09 mars 2023    : Sujet 1 : saut à la perche (modélisation, étude flexibilité, ...)
+- Jeudi 09 mars 2023    : Sujet 1 : saut à la perche (modélisation, étude flexibilité, ...) présenté aux professeurs.
 - Jeudi 16 mars 2023    : Lecture de la thèse de P. Vaslin.
 - Jeudi 23 mars 2023    : Lecture de la thèse de J. Morlier.
 -
