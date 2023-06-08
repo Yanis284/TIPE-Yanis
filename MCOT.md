@@ -8,8 +8,8 @@
 
 ## Positionnement thématique (par ordre de priorité décroissante)
 
-1.
-2.
+1. Mécanique
+2. Informatique pratique
 3.
 
 - Informatique : Technologie informatiques, Informatique théorique, Informatique pratique.
@@ -33,18 +33,18 @@ Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus 
 
 
 ## Problématique retenue (max 50 mots)
-
+Quels facteurs de la perche permettent d'atteindre la hauteur maximale au saut à la perche ?
 
 ## Objectifs du TIPE (max 100 mots)
 
-1.
+1. Modéliser le mouvement de la perche et étudier l'energie cinétique fournie au sauteur pour déterminer la hauteur maximale.
 2.
 3.
 
 
 ## Références bibliographiques (2 à 10 références)
 
-1. 
+1. https://www.researchgate.net/publication/233866850_Les_facteurs_de_la_performance_en_saut_a_la_perche_dans_la_litterature_scientifique
 2. 
 3. 
 4. 
