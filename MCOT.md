@@ -37,7 +37,7 @@ Quels facteurs de la perche permettent d'atteindre la hauteur maximale au saut �
 
 ## Objectifs du TIPE (max 100 mots)
 
-1. Modéliser le mouvement de la perche et étudier l'energie cinétique fournie au sauteur pour déterminer la hauteur maximale.
+1. Modéliser le mouvement de la perche et étudier l'energie fournie au sauteur pour déterminer la hauteur maximale.
 2.
 3.
 
