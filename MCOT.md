@@ -44,8 +44,8 @@ Quels facteurs de la perche permettent d'atteindre la hauteur maximale au saut �
 
 ## Références bibliographiques (2 à 10 références)
 
-1. https://www.researchgate.net/publication/233866850_Les_facteurs_de_la_performance_en_saut_a_la_perche_dans_la_litterature_scientifique
-2. https://www.researchgate.net/publication/304658527_Etude_dynamique_tridimensionnelle_du_saut_a_la_perche_Caracterisation_et_modelisation_d'une_perche_de_saut
+1. Philippe Vaslin et Mariano Cid : https://www.researchgate.net/publication/233866850_Les_facteurs_de_la_performance_en_saut_a_la_perche_dans_la_litterature_scientifique
+2. Julien Morlier : https://www.researchgate.net/publication/304658527_Etude_dynamique_tridimensionnelle_du_saut_a_la_perche_Caracterisation_et_modelisation_d'une_perche_de_saut
 3. 
 4. 
 5. 
