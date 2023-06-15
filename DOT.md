@@ -31,5 +31,4 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
 - Jeudi 09 mars 2023    : Sujet 1 : saut à la perche (modélisation, étude flexibilité, ...) présenté aux professeurs.
 - Jeudi 16 mars 2023    : Lecture de la thèse de P. Vaslin.
 - Jeudi 23 mars 2023    : Lecture de la thèse de J. Morlier.
-- Jeudi 13 avril 2023   : Lecture de thèses
-- 
+- semaine du 15 juin : flambage
