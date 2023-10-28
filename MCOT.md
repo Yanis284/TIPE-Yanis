@@ -33,7 +33,7 @@ Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus 
 
 
 ## Problématique retenue (max 50 mots)
-Quels facteurs de la perche permettent d'atteindre la hauteur maximale au saut à la perche ?
+Comment maximiser son énergie au saut à la perche ?
 
 ## Objectifs du TIPE (max 100 mots)
 
