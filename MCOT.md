@@ -29,8 +29,8 @@ Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus 
 
 
 ## Bibliographie commentée (max 650 mots)
-Philippe Vaslin a déterminé 25 paramètres susceptibles d'influencer la hauteur du saut, dont 7 principaux : la taille du sauteur, la rigidité de la perche, la vitesse initiale, le moment fléchissant au décollage, l'amplitude de renversement, la restitution d'énergie par la perche, l'énergie potentielle et mécanique finale. 
-Julien Morlier 
+Philippe Vaslin a déterminé 25 paramètres susceptibles d'influencer la hauteur du saut, dont 7 principaux : la taille du sauteur, la rigidité de la perche, la vitesse initiale, le moment fléchissant au décollage, l'amplitude de renversement, la restitution d'énergie par la perche, l'énergie potentielle et mécanique finale.
+Julien Morlier explique les procédés utilisés pour analyser expérimentalement le saut.
 
 
 
