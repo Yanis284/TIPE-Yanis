@@ -46,7 +46,7 @@ Comment maximiser son énergie au saut à la perche afin d'atteindre une hauteur
 
 ## Références bibliographiques (2 à 10 références)
 
-1. Philippe Vaslin et Mariano Cid : https://www.researchgate.net/publication/233866850_Les_facteurs_de_la_performance_en_saut_a_la_perche_dans_la_litterature_scientifique
+1. Philippe Vaslin : https://www.researchgate.net/publication/233866850_Les_facteurs_de_la_performance_en_saut_a_la_perche_dans_la_litterature_scientifique
 2. Julien Morlier : https://www.researchgate.net/publication/304658527_Etude_dynamique_tridimensionnelle_du_saut_a_la_perche_Caracterisation_et_modelisation_d'une_perche_de_saut
 3. 
 4. 
