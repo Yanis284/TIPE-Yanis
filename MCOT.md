@@ -22,18 +22,18 @@
 Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus significatifs de son travail**. Ils doivent être en **cohérence** avec la bibliographie, la problématique et les objectifs choisis par le candidat. Les mots-clés doivent être renseignés dans un ordre décroissant d'importance et permettre de bien cerner le périmètre des recherches.
 
 1. Énergies
-2. Perche
+2. Saut à la perche
 3. 
 4.
 5.
 
 
 ## Bibliographie commentée (max 650 mots)
-
+Philippe Vaslin a déterminé 25 paramètres susceptibles d'influencer la hauteur du saut, dont 7 principaux : la taille du sauteur, la rigidité de la perche, la vitesse initiale, le moment fléchissant au décollage, l'amplitude de renversement, la restitution d'énergie par la perche, l'énergie potentielle et mécanique finale.
 
 
 ## Problématique retenue (max 50 mots)
-Comment maximiser son énergie au saut à la perche ?
+Comment maximiser son énergie au saut à la perche afin d'atteindre une hauteur maximale ?
 
 ## Objectifs du TIPE (max 100 mots)
 
