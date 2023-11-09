@@ -22,11 +22,11 @@ Le saut à la perche est un sport olympique, il rentre donc dans la catégorie s
 
 Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus significatifs de son travail**. Ils doivent être en **cohérence** avec la bibliographie, la problématique et les objectifs choisis par le candidat. Les mots-clés doivent être renseignés dans un ordre décroissant d'importance et permettre de bien cerner le périmètre des recherches.
 
-1. Énergies
-2. Saut à la perche
-3. 
-4.
-5.
+1. Saut à la perche
+2. Énergies
+3. Coefficient de restitution
+4. Équation du mouvement
+5. 
 
 
 ## Bibliographie commentée (max 650 mots)
@@ -34,6 +34,7 @@ Le saut à la perche est un sport olympique. L’enjeu de comprendre comment max
 
 L’analyse expérimentale du saut s’effectue grâce à des capteurs placés dans le butoir et sous la piste d’élan au niveau de la dernière impulsion ainsi qu’une analyse vidéo. 
 Julien Morlier modélise le perchiste comme un ensemble de solides indéformables articulés. Il possède donc 14 membres : deux pieds, deux jambes, deux cuisses, deux bras, deux avant-bras, deux mains, un tronc et une tête.
+Les données de l'enregistrement vidéo sont traitées et corigées pour mettre en équation le saut. 
 
 Les expériences effectuées par Nicolas Linthorne ont permis de montrer que plus la vitesse horizontale avant l’impulsion est élevée, plus la performance du sauteur, c'est-à-dire sa hauteur maximale atteinte, sera élevée.
 
@@ -46,13 +47,13 @@ Comment maximiser son énergie au saut à la perche afin d'atteindre une hauteur
 
 1. Étudier les changements d’énergies durant les différentes phases du saut
 2. Déterminer l’énergie restituée par la perche et l'énergie apportée par le sauteur grâce à son travail musculaire.
-3.
+
 
 
 ## Références bibliographiques (2 à 10 références)
 
-1. Philippe Vaslin : https://www.researchgate.net/publication/233866850_Les_facteurs_de_la_performance_en_saut_a_la_perche_dans_la_litterature_scientifique
-2. Julien Morlier : https://www.researchgate.net/publication/304658527_Etude_dynamique_tridimensionnelle_du_saut_a_la_perche_Caracterisation_et_modelisation_d'une_perche_de_saut
+1. Philippe Vaslin : "Les facteurs de la performance en saut à la perche dans la littérature scientifique"
+2. Julien Morlier : "Etude dynamique tridimensionnelle du saut à la perche. Caractérisation et modélisation d'une perche de saut"
 3. 
 4. 
 5. 
