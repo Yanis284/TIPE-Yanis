@@ -11,7 +11,7 @@ Le saut à la perche est un sport olympique, il rentre donc dans la catégorie s
 
 1. PHYSIQUE (Mécanique)
 2. PHYSIQUE (Physique théorique)
-3.
+
 
 - Informatique : Technologie informatiques, Informatique théorique, Informatique pratique.
 - Mathématiques : Algèbre, Analyse, Topologie & Géométrie, Probabilités, Autres domaines.
@@ -26,7 +26,7 @@ Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus 
 2. Énergies
 3. Coefficient de restitution
 4. Équation du mouvement
-5. 
+
 
 
 ## Bibliographie commentée (max 650 mots)
