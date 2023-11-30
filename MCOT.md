@@ -13,14 +13,7 @@ Le saut à la perche est un sport olympique, il rentre donc dans la catégorie s
 2. PHYSIQUE (Physique théorique)
 
 
-- Informatique : Technologie informatiques, Informatique théorique, Informatique pratique.
-- Mathématiques : Algèbre, Analyse, Topologie & Géométrie, Probabilités, Autres domaines.
-- Physique : Physique interdisciplinaire, Physique Ondulatoire, Physique de la matière, Mécanique, Physique Théorique
-
-
 ## Mots-clés (par ordre de priorité décroissante)
-
-Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus significatifs de son travail**. Ils doivent être en **cohérence** avec la bibliographie, la problématique et les objectifs choisis par le candidat. Les mots-clés doivent être renseignés dans un ordre décroissant d'importance et permettre de bien cerner le périmètre des recherches.
 
 1. Saut à la perche
 2. Énergies
@@ -39,11 +32,12 @@ Les données de l'enregistrement vidéo sont traitées et corigées pour mettre 
 Les expériences effectuées par Nicolas Linthorne ont permis de montrer que plus la vitesse horizontale avant l’impulsion est élevée, plus la performance du sauteur, c'est-à-dire sa hauteur maximale atteinte, sera élevée.
 
 
+
 ## Problématique retenue (max 50 mots)
 Comment maximiser son énergie au saut à la perche afin d'atteindre une hauteur maximale ?
 
-## Objectifs du TIPE (max 100 mots)
 
+## Objectifs du TIPE (max 100 mots)
 
 1. Étudier les changements d’énergies durant les différentes phases du saut par analyse vidéo.
 2. Déterminer l’énergie restituée par la perche et l'énergie apportée par le sauteur grâce à son travail musculaire.
