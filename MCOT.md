@@ -45,7 +45,7 @@ Comment maximiser son énergie au saut à la perche afin d'atteindre une hauteur
 ## Objectifs du TIPE (max 100 mots)
 
 
-1. Étudier les changements d’énergies durant les différentes phases du saut
+1. Étudier les changements d’énergies durant les différentes phases du saut par analyse vidéo.
 2. Déterminer l’énergie restituée par la perche et l'énergie apportée par le sauteur grâce à son travail musculaire.
 
 
