@@ -54,7 +54,7 @@ Comment maximiser son énergie au saut à la perche afin d'atteindre une hauteur
 
 1. Philippe Vaslin : "Les facteurs de la performance en saut à la perche dans la littérature scientifique"
 2. Julien Morlier : "Etude dynamique tridimensionnelle du saut à la perche. Caractérisation et modélisation d'une perche de saut"
-3. 
+3. Nicolas Linthorne : "Effects of run-up velocity on performance, kinematics, and energy exchanges in the pole vault"
 4. 
 5. 
 6. 
